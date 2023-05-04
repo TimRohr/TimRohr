@@ -1,1 +1,2 @@
 # Tim Rohr
+<a href="https://stackexchange.com/users/5815467"><img src="https://stackexchange.com/users/flair/5815467.png?theme=dark" width="208" height="58" alt="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
