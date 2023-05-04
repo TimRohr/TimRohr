@@ -3,4 +3,4 @@
 
 ###
 Visitor Count <br>
-![](https://komarev.com/ghpvc/?username=TimRohr&color=green)
+![](https://komarev.com/ghpvc/?username=TimRohr&color=green&style=plastic)
