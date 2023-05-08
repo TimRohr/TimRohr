@@ -6,5 +6,5 @@
 ### Visitor Count <br>
 ![](https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic)
 
-## 😂 Here is a random joke that'll make you laugh!
+### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
