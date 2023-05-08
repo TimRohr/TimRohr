@@ -7,4 +7,4 @@ Visitor Count <br>
 
 📈 github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=timrohr&show_icons=true&theme=gotham" alt="timrohr" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
