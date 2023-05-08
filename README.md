@@ -7,4 +7,4 @@ Visitor Count <br>
 
 📈 github stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TimRohr)](https://github.com/TimRohr/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gizmo8125)](https://github.com/Gizmo8125/github-readme-stats)
