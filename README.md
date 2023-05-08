@@ -4,3 +4,7 @@
 ###
 Visitor Count <br>
 ![](https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic)
+
+📈 github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=timrohr&show_icons=true&theme=gotham" alt="timrohr" />
