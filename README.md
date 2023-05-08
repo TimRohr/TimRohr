@@ -6,7 +6,7 @@ Visitor Count <br>
 ![](https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic)
 
 📈 github stats
-[![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TimRohr&theme=radical)]
+[GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TimRohr&theme=merko)
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
