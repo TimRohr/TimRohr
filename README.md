@@ -21,7 +21,7 @@
 <a href="https://stackexchange.com/users/5815467"><img src="https://stackexchange.com/users/flair/5815467.png?theme=dark" width="208" height="58" alt="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <h3 align="left">Certifications:</h3>
-![<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5158e905-0f6f-4a15-bdcc-29d01fc72478" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>](https://www.credly.com/users/timothy-rohr)
+
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timrohr&theme=merko" alt="timrohr" /></p>
