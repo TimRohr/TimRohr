@@ -2,7 +2,7 @@
 <h3 align="center">A strong IT Leader and Developer of Complex systems.</h3>
 
 <h3 align="left">Visitor Count</h3> 
-![](https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic)
+<img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
