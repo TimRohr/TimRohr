@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tim</h1>
-<h3 align="center">A strong IT Leader and Developer of Complex systems.</h3>
+<h3 align="center">Subject Matter Expert | Technical Leader | AWS Certified | Linux Expert | Passion for Developing Others | Provides Innovative Solutions</h3>
 
 <h3 align="left">Visitor Count</h3> 
 <img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
