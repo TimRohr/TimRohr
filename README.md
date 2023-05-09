@@ -2,7 +2,10 @@
 <h3 align="center">Technical Leader | AWS Certified | Linux Expert </hs>
 <h3 align="center">Passion for Developing Others | Provides Innovative Solutions</h3>
 
-<h3 align="left">Visitor Count</h3> 
+<h3 align="left">Bio:</h3> 
+<p>I love technology. I developed a home lab to allow friends to use to start learning IT skills.</p>
+
+<h3 align="left">Visitor Count:</h3> 
 <img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
 
 <h3 align="left">Connect with me:</h3>
