@@ -9,7 +9,7 @@
 [Link to verify badges](https://www.credly.com/users/timothy-rohr/badges)
 
 <h4 align="left">Offensive Security</h4>
-![OSWP](https://github.com/TimRohr/TimRohr/main/offensive-security-wireless-professional-oswp.png?raw=true)
+![OSWP](offensive-security-wireless-professional-oswp.png?raw=true)
 
 
 <h4 align="left">AWS</h4>
