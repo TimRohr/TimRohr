@@ -17,8 +17,6 @@
   <img src="https://github.com/TimRohr/TimRohr/blob/5aebd7acc3da150ddf8bfd83aecc149a2f033e09/aws-certified-cloud-practitioner.png?raw=true" alt="OSWP" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-devops-engineer-professional.png?raw=true" alt="OSWP" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-security-specialty.png?raw=true" alt="OSWP" width="150" height="150">
-</div>
-<div class="row">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-technical.png?raw=true" alt="OSWP" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-business.png?raw=true" alt="OSWP" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="OSWP" width="150" height="150">
