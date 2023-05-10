@@ -5,19 +5,21 @@
 <h3 align="left">Bio:</h3> 
 <p>I love technology. I developed a home lab to allow friends to use to start learning IT skills.</p>
 
-<h3 align="left">Certifications</h3>
+<h3 align="left">Certifications:</h3>
 
 [Link to verify badges](https://www.credly.com/users/timothy-rohr/badges)
 
 <h4 align="left">Offensive Security</h4>
-
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
 
 <h4 align="left">AWS</h4>
+<img src="https://github.com/TimRohr/TimRohr/blob/5aebd7acc3da150ddf8bfd83aecc149a2f033e09/aws-certified-cloud-practitioner.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-devops-engineer-professional.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-security-specialty.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-technical.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-business.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="OSWP" width="150" height="150">
 
-
-<h3 align="left">Visitor Count:</h3> 
-<img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,9 +33,6 @@
 <h3 align="left"> Stack Overflow Stats:</h3> <br>
 <a href="https://stackexchange.com/users/5815467"><img src="https://stackexchange.com/users/flair/5815467.png?theme=dark" width="208" height="58" alt="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
-<h3 align="left">Certifications:</h3>
-
-
 <h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timrohr&theme=merko" alt="timrohr" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timrohr&theme=matrix" alt="timrohr" /></a> </p>
@@ -43,3 +42,6 @@
 
 ### 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+<h3 align="left">Visitor Count:</h3> 
+<img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
