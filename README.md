@@ -5,6 +5,15 @@
 <h3 align="left">Bio:</h3> 
 <p>I love technology. I developed a home lab to allow friends to use to start learning IT skills.</p>
 
+<h3 align="left">Certifications</h3>
+[Link to verify badges](https://www.credly.com/users/timothy-rohr/badges)
+
+<h4 align="left">Offensive Security</h4>
+
+
+<h4 align="left">AWS</h4>
+
+
 <h3 align="left">Visitor Count:</h3> 
 <img src="https://komarev.com/ghpvc/?username=TimRohr&color=brightgreen&style=plastic" alt="Visitors">
 
