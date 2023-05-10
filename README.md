@@ -13,12 +13,19 @@
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
 
 <h4 align="left">AWS</h4>
-<img src="https://github.com/TimRohr/TimRohr/blob/5aebd7acc3da150ddf8bfd83aecc149a2f033e09/aws-certified-cloud-practitioner.png?raw=true" alt="OSWP" width="150" height="150">
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/TimRohr/TimRohr/blob/5aebd7acc3da150ddf8bfd83aecc149a2f033e09/aws-certified-cloud-practitioner.png?raw=true" alt="OSWP" width="150" height="150">
+  </div>
+  <div class="column">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-devops-engineer-professional.png?raw=true" alt="OSWP" width="150" height="150">
+  <div class="column">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-security-specialty.png?raw=true" alt="OSWP" width="150" height="150">
+  </div>
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-technical.png?raw=true" alt="OSWP" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-business.png?raw=true" alt="OSWP" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="OSWP" width="150" height="150">
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
