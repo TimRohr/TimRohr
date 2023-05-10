@@ -6,11 +6,11 @@
 <p>I love technology. I developed a home lab to allow friends to use to start learning IT skills.</p>
 
 <h3 align="left">Certifications</h3>
+
 [Link to verify badges](https://www.credly.com/users/timothy-rohr/badges)
 
 <h4 align="left">Offensive Security</h4>
-![OSWP](offensive-security-wireless-professional-oswp.png?raw=true)
-
+![OSWP](https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true)
 
 <h4 align="left">AWS</h4>
 
