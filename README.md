@@ -42,8 +42,8 @@ table, th, td {
   <tr><td>PUBP6725</td><td>Info Security Policies</td><td>In Progress</td></tr>
 </table>
 
-<h4 align="left">Skillsoft Courses:</h4>
-<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/ISC_Security_Fundamentals.png?raw=true" alt="OSWP" width="150" height="150">
+<h3 align="left">Skillsoft Courses:</h4>
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
