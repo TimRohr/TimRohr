@@ -45,7 +45,16 @@ table, th, td {
 <a href="https://skillsoft.digitalbadges.skillsoft.com/profile/timrohr/wallet">Link to verify Skillsoft badges</a>
 <div class="row">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73864205" alt="ISC2 Security Fundamentals" width="150" height="150">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37091357?raw=true" alt="Trends in Cyber Security" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37091357" alt="Trends in Cyber Security" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14757317" alt="Ethical Hacker: Overview & Threats" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/36288159" alt="Introduction to Cyber Operations" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35776031" alt="CompTIA Security+: Social Engineering Techniques & Other Attack Types" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35927814" alt="Scrum Concepts & the Product Owner" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35932573" alt="Scrum Master: Scrum for the Team" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35627493" alt="Transitioning to Scrum" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35625632" alt="Transition to Scrum: Agile Foundation to Scrum" width="150" height="150">
+  
+  
 </div>
 
 <h3 align="left">Connect with me:</h3>
