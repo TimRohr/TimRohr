@@ -42,6 +42,9 @@ table, th, td {
   <tr><td>PUBP6725</td><td>Info Security Policies</td><td>In Progress</td></tr>
 </table>
 
+<h4 align="left">Skillsoft Courses:</h4>
+<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/ISC_Security_Fundamentals.png?raw=true" alt="OSWP" width="150" height="150">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trohr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trohr" height="30" width="40" /></a>
