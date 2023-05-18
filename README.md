@@ -1,3 +1,8 @@
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
 <h1 align="center">Hi, I'm Tim</h1>
 <h3 align="center">Technical Leader | AWS Certified | Linux Expert </hs>
 <h3 align="center">Passion for Developing Others | Provides Innovative Solutions</h3>
@@ -25,16 +30,17 @@
 </div>
 
 <h3 align="left">Georgia Tech Coursework:</h3>
-| Course | Title | Grade |
-| ------------ | ------------ | ------------ |
-| CS6475 | Computational Photography | A |
-| CS6250 | Computer Networks | A |
-| CS6300 | Software Dev Process | A |
-| CS6263 | Cyber Physical Systems Security | A |
-| CS6035 | Information Security | A |
-| CS6262 | Network Security | A |
-| CS6603 | AI, Ethics and Society | A |
-| PUBP6725 |  | A |
+<table style="width:100%">
+  <tr><th>Course</th><th>Title</th><th>Grade</th></tr>
+  <tr><td>CS6475</td><td>Computational Photography</td><td>A</td></tr>
+  <tr><td>CS6250</td><td>Computer Networks</td><td>A</td></tr>
+  <tr><td>CS6300</td><td>Software Dev Process</td><td>A</td></tr>
+  <tr><td>CS6263</td><td>Cyber Physical Systems Security</td><td>A</td></tr>
+  <tr><td>CS6035</td><td>Information Security</td><td>A</td></tr>
+  <tr><td>CS6262</td><td>Network Security</td><td>A</td></tr>	
+  <tr><td>CS6603</td><td>AI, Ethics and Society</td><td>A</td></tr>
+  <tr><td>PUBP6725</td><td>Info Security Policies</td><td>In Progress</td></tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
