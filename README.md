@@ -11,7 +11,7 @@ table, th, td {
 <p>I love technology. I developed a home lab to allow friends to use to start learning IT skills.</p>
 
 <h3 align="left">Certifications:</h3>
-<a href="https://www.credly.com/users/timothy-rohr/badges" target="_blank">Link to verify Credly Badges</a>
+<a href="https://www.credly.com/users/timothy-rohr/badges">Link to verify Credly badges</a>
 
 <h4 align="left">Offensive Security</h4>
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
@@ -42,9 +42,9 @@ table, th, td {
 </table>
 
 <h3 align="left">Skillsoft Courses:</h4>
-[Link to verify skillsoft badges](https://skillsoft.digitalbadges.skillsoft.com/profile/timrohr/wallet)
+<a href="https://skillsoft.digitalbadges.skillsoft.com/profile/timrohr/wallet">Link to verify Skillsoft badges</a>
 <div class="row">
-  <img src="https://github.com/TimRohr/TimRohr/blob/08c0930e6375e8fff5fd710b719b6fb07d949ead/isc-security-fundamentals.png?raw=true" alt="ISC2 Security Fundamentals" width="150" height="150">
+  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73864205" alt="ISC2 Security Fundamentals" width="150" height="150">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/37091357?raw=true" alt="Trends in Cyber Security" width="150" height="150">
 </div>
 
