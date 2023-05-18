@@ -1,8 +1,3 @@
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
 <h1 align="center">Hi, I'm Tim</h1>
 <h3 align="center">Technical Leader | AWS Certified | Linux Expert </hs>
 <h3 align="center">Passion for Developing Others | Provides Innovative Solutions</h3>
