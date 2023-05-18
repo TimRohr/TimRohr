@@ -43,7 +43,7 @@ table, th, td {
 </table>
 
 <h3 align="left">Skillsoft Courses:</h4>
-<img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/isc-security-fundamentals.png?raw=true" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/08c0930e6375e8fff5fd710b719b6fb07d949ead/isc-security-fundamentals.png?raw=true" alt="OSWP" width="150" height="150">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
