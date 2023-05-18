@@ -24,6 +24,17 @@
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="OSWP" width="150" height="150">
 </div>
 
+<h3 align="left">Georgia Tech Coursework:</h3>
+| Course | Title | Grade |
+| ------------ | ------------ | ------------ |
+| CS6475 | Computational Photography | A |
+| CS6250 | Computer Networks | A |
+| CS6300 | Software Dev Process | A |
+| CS6263 | Cyber Physical Systems Security | A |
+| CS6035 | Information Security | A |
+| CS6262 | Network Security | A |
+| CS6603 | AI, Ethics and Society | A |
+| PUBP6725 |  | A |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
