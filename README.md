@@ -9,9 +9,10 @@
 <a href="https://www.credly.com/users/timothy-rohr/badges">Link to verify Credly badges</a>
 
 <h4 align="left">Cyber Security</h4>
+<div class="row">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/67d6ca0292ad2733391785c3e61e00083c214da7/cyber-security-and-infosec.png" alt="OSWP" width="150" height="150">
-
+</div>
 
 <h4 align="left">AWS</h4>
 <div class="row">
@@ -50,8 +51,6 @@
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35932573" alt="Scrum Master: Scrum for the Team" width="150" height="150">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35627493" alt="Transitioning to Scrum" width="150" height="150">
   <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/35625632" alt="Transition to Scrum: Agile Foundation to Scrum" width="150" height="150">
-  
-  
 </div>
 
 <h3 align="left">Connect with me:</h3>
