@@ -3,8 +3,7 @@
 <h3 align="center">Passion for Developing Others | Provides Innovative Solutions</h3>
 
 <h3 align="left">Bio:</h3> 
-<p>I love technology. This passion for technology led me to developed a home lab to allow friends to use to start learning IT skills. More information about my lab can be found on my website <a href="https://www.trohr.com/">trohr.com</a>
-.</p>
+<p>I love technology. This passion for technology led me to developed a home lab to allow friends to use to start learning IT skills. More information about my lab can be found on my website <a href="https://www.trohr.com/">trohr.com</a>.</p>
 <p>Talented IT Leader focused on performance optimization and technical improvements with understanding of cost-effective decision making and usability. Combined 12 years in large-scale distributed network environments experience. Proven innovative leader of highly technical teams, demonstrated by recognition from Senior Leadership. Skilled communicator to both technical teams and Stakeholders and Shareholders, demonstrated by successful implementation and deployment of new and enhanced systems. Highly skilled security, system, and process engineer with demonstrated success in developing and implementing security requirements focused toward performance optimization, process improvements realizing resource efficiencies, and roadmaps, disaster recovery, and resource plans to ensure systems and operations are well positioned for the future.</p>
 
 <h3 align="left">Certifications:</h3>
