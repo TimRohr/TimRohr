@@ -8,8 +8,9 @@
 <h3 align="left">Certifications:</h3>
 <a href="https://www.credly.com/users/timothy-rohr/badges">Link to verify Credly badges</a>
 
-<h4 align="left">Offensive Security</h4>
+<h4 align="left">Cyber Security</h4>
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ab70bf8c-c795-42e0-b9e0-35e060d68d48" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <h4 align="left">AWS</h4>
 <div class="row">
