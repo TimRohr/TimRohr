@@ -27,6 +27,12 @@
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="AWS Partner Cloud Economics Accreditation" width="150" height="150">
 </div>
 
+<h4 align="left">Program Management</h4>
+<div class="row">
+<img src="https://github.com/TimRohr/TimRohr/blob/fbc654b40c361b60110be0d855dc2c9f9a87097b/Kickoff-Badge-waterfall.png" alt="PMI waterfall badge" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/fbc654b40c361b60110be0d855dc2c9f9a87097b/Kickoff-Badge-agile.png" alt="PMI agile badge" width="150" height="150">
+</div>
+
 <h3 align="left">Georgia Tech Coursework:</h3>
 <table style="width:100%">
   <tr><th>Course</th><th>Title</th><th>Grade</th></tr>
