@@ -33,6 +33,12 @@
 <img src="https://github.com/TimRohr/TimRohr/blob/fbc654b40c361b60110be0d855dc2c9f9a87097b/Kickoff-Badge-agile.png" alt="PMI agile badge" width="150" height="150">
 </div>
 
+<h4 align="left">VMWare</h4>
+<div class="row">
+<img src="https://github.com/TimRohr/TimRohr/blob/9f07ad5304893f6643776ec179a056415959aeab/it-academy-cloud-and-virtualization-concepts.png" alt="VMware Cloud Concepts" width="150" height="150">
+</div>
+
+
 <h3 align="left">Georgia Tech Coursework:</h3>
 <table style="width:100%">
   <tr><th>Course</th><th>Title</th><th>Grade</th></tr>
