@@ -36,6 +36,7 @@
 <h4 align="left">VMWare</h4>
 <div class="row">
 <img src="https://github.com/TimRohr/TimRohr/blob/9f07ad5304893f6643776ec179a056415959aeab/it-academy-cloud-and-virtualization-concepts.png" alt="VMware Cloud Concepts" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/447505dad7debe48ec93d46b4cd35d2986fd44ab/it-academy-network-virtualization-concepts.png" alt="VMware Network Virtualization Concepts" width="150" height="150">
 </div>
 
 
