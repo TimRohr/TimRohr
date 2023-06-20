@@ -35,6 +35,7 @@
 
 <h4 align="left">VMWare</h4>
 <div class="row">
+<img src="https://github.com/TimRohr/TimRohr/blob/e567694a9d2d3b36748dd8e39f0c7837d33e4f7a/VMware_Skyline_Advisor_Pro_Technologist_Intermediate.png" alt="VMware Skyline Advisor Pro Technologist" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/9f07ad5304893f6643776ec179a056415959aeab/it-academy-cloud-and-virtualization-concepts.png" alt="VMware Cloud Concepts" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/447505dad7debe48ec93d46b4cd35d2986fd44ab/it-academy-network-virtualization-concepts.png" alt="VMware Network Virtualization Concepts" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/ea5cb42ec30af9d8ea21359495d5154d9c6364d5/it-academy-software-defined-storage-concepts.png" alt="VMware Software-Defined Storage Concepts" width="150" height="150">
