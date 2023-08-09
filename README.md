@@ -52,7 +52,8 @@
   <tr><td>CS6035</td><td>Information Security</td><td>A</td></tr>
   <tr><td>CS6262</td><td>Network Security</td><td>A</td></tr>	
   <tr><td>CS6603</td><td>AI, Ethics and Society</td><td>A</td></tr>
-  <tr><td>PUBP6725</td><td>Info Security Policies</td><td>In Progress</td></tr>
+  <tr><td>PUBP6725</td><td>Info Security Policies</td><td>B</td></tr>
+  <tr><td>CS6265</td><td>	Information Security Lab: Binary Exploitation</td><td>In Progress</td></tr>
 </table>
 
 <h3 align="left">Skillsoft Courses:</h4>
