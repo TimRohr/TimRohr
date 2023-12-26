@@ -83,7 +83,7 @@
 <a href="https://stackexchange.com/users/5815467"><img src="https://stackexchange.com/users/flair/5815467.png?theme=dark" width="208" height="58" alt="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Tim R on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 <h3 align="left">Try Hack Me Stats:</h3> <br>
-<a><script src="https://tryhackme.com/badge/1549215"></script></a>
+<a><img src="https://tryhackme.com/badge/1549215"></img></a>
 
 <h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timrohr&theme=merko&count-private=true" alt="timrohr" /></p>
