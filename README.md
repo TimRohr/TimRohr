@@ -13,6 +13,8 @@
 <div class="row">
 <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/offensive-security-wireless-professional-oswp.png?raw=true" alt="OSWP" width="150" height="150">
 <img src="https://github.com/TimRohr/TimRohr/blob/67d6ca0292ad2733391785c3e61e00083c214da7/cyber-security-and-infosec.png" alt="OSWP" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb791f84c40ebda88402b64acc9a1f72997dc06e/comptia-security%2B-ce-certification.png" alt="Security+" width="150" height="150">
+<img src="https://github.com/TimRohr/TimRohr/blob/bb791f84c40ebda88402b64acc9a1f72997dc06e/certified-in-cybersecurity-cc.png" alt="ISC2 CC" width="150" height="150">
 </div>
 
 <h4 align="left">AWS</h4>
