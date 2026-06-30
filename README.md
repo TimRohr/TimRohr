@@ -21,8 +21,11 @@
 <div class="row">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-devops-engineer-professional.png?raw=true" alt="AWS DevOps Professional" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-security-specialty.png?raw=true" alt="AWS Security Specialty" width="150" height="150">
+  <img src="https://github.com/TimRohr/TimRohr/blob/5c938f792821186d689bc9e92c13cea3c8a38994/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150" height="150">
 </div>
 <div class="row">
+  <img src="https://github.com/TimRohr/TimRohr/blob/5c938f792821186d689bc9e92c13cea3c8a38994/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150">
+  <img src="https://github.com/TimRohr/TimRohr/blob/5c938f792821186d689bc9e92c13cea3c8a38994/aws-certified-cloud-practitioner.png" alt="AWS Cloud Practitioner" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-technical.png?raw=true" alt="AWS Partner Technical Accreditation" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-accreditation-business.png?raw=true" alt="AWS Partner Business Accreditation" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-partner-cloud-economics-accreditation.png?raw=true" alt="AWS Partner Cloud Economics Accreditation" width="150" height="150">
