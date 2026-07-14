@@ -22,6 +22,8 @@
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-devops-engineer-professional.png?raw=true" alt="AWS DevOps Professional" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/bb06ec881a7db31cd02ca9e12db7ce9359931f62/aws-certified-security-specialty.png?raw=true" alt="AWS Security Specialty" width="150" height="150">
   <img src="https://github.com/TimRohr/TimRohr/blob/5c938f792821186d689bc9e92c13cea3c8a38994/aws-certified-developer-associate.png" alt="AWS Developer Associate" width="150" height="150">
+  <img src="https://github.com/TimRohr/TimRohr/blob/02c3bac8a6ba72869d875c0aed4a28a47fbaeaea/aws-certified-solutions-architect-associate.png" alt="AWS Developer Associate" width="150" height="150">
+  <img src="https://github.com/TimRohr/TimRohr/blob/02c3bac8a6ba72869d875c0aed4a28a47fbaeaea/aws-certified-cloudops-engineer-associate.png" alt="AWS Developer Associate" width="150" height="150">
 </div>
 <div class="row">
   <img src="https://github.com/TimRohr/TimRohr/blob/5c938f792821186d689bc9e92c13cea3c8a38994/aws-certified-ai-practitioner.png" alt="AWS AI Practitioner" width="150" height="150">
